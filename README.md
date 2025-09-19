@@ -1,4 +1,4 @@
-# Stokify
+# **Stokify** : Stock price prediction Web application
 README.md – Stockify
 
 📈 Stockify: Stock Price Prediction Web App
